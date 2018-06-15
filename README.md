@@ -1,4 +1,4 @@
-= Domain Class Library
+# Domain Class Library
 
 The project defined in `domain/` contains a domain class.
 
