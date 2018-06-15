@@ -1,10 +1,10 @@
-= Domain Class Library
+# Domain Class Library
 
 The project defined in `domain/` contains a domain class.
 
 The project defined in `nonwebapp/` is a non-Grails application.
 
-the project defined in `webapp/` is a Grails application.
+The project defined in `webapp/` is a Grails application.
 
 To run the non-Grails application:
 
