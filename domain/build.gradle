@@ -1,0 +1,12 @@
+apply plugin: 'groovy'
+apply plugin: 'project-reports'
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile 'org.codehaus.groovy:groovy:2.4.10'
+    compile "org.grails:grails-datastore-gorm-hibernate5:6.0.10.RELEASE"
+    compile 'org.slf4j:slf4j-api:1.7.21'
+    runtime 'ch.qos.logback:logback-classic:1.1.7'
+}
